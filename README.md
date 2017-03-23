@@ -5,6 +5,7 @@
 
 - [icons8](https://icons8.com/)
 - [Flaticon](http://www.flaticon.com/)
+- [Emojione](http://emojione.com/)
 
 ### Inspiring
 
