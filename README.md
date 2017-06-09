@@ -14,3 +14,4 @@
 - [Uplabs](https://www.uplabs.com/) Daily UI inspiration
 - [CodePen](http://codepen.io/pens/)
 - [Lottie files](http://www.lottiefiles.com/)
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) 💅🏻 ⚒ A collection of awesome design systems
