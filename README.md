@@ -1,7 +1,7 @@
 # fantastic-design
 👨‍🎨 A collection of design resources
 
-## Icons
+## Images
 
 ### List
 
@@ -27,3 +27,8 @@
 
 ### Post
 - [Color blends are back in fashion](https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742)
+
+
+## Miscs
+
+- [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) A curated list of Awesome Creative Portfolios.
