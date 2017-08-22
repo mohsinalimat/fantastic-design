@@ -15,6 +15,10 @@
 - [SoundKit](http://facebook.design/soundkit)
 - [Icons8 Sound](https://icons8.com/sounds)
 
+## Font
+
+- [Google Fonts](https://fonts.google.com/)
+
 ## Inspiration
 
 - [Muzli](https://medium.muz.li/) All the design inspiration you need
