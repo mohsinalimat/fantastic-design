@@ -21,6 +21,7 @@
 - [Design Detail](http://www.brianlovin.com/) A visual exploration of the best products
 - [Uplabs](https://www.uplabs.com/) Daily UI inspiration
 - [CodePen](http://codepen.io/pens/)
+- [Code My UI](https://codemyui.com/)
 
 ## Posts
 
