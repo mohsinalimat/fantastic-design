@@ -9,6 +9,8 @@
 - [Feather](https://feathericons.com)
 - [Lottie files](http://www.lottiefiles.com/)
 - [Kenny Asset](https://kenney.nl/assets)
+- [Noun Project](https://thenounproject.com/)
+- [Modern Pictograms](https://modernpictograms.com/)
 
 ## Sound
 
