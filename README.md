@@ -33,6 +33,7 @@
 
 - [MakeIconsWithSketch](https://github.com/allenwong/MakeIconsWithSketch) Simple tutorials about how to make icons with Sketch.
 - [Color blends are back in fashion](https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742)
+- [Little UI Details](https://twitter.com/i/moments/880688233641848832)
 
 ## Misc
 
