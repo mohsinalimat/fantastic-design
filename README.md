@@ -34,6 +34,7 @@
 - [MakeIconsWithSketch](https://github.com/allenwong/MakeIconsWithSketch) Simple tutorials about how to make icons with Sketch.
 - [Color blends are back in fashion](https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742)
 - [Little UI Details](https://twitter.com/i/moments/880688233641848832)
+- [Creative Motion: 12 Concepts of Interface Animation](https://uxplanet.org/creative-motion-12-concepts-of-interface-animation-2c32f674aecb)
 
 ## Misc
 
